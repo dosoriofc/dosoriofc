@@ -1,3 +1,5 @@
+![Acerca de Mi Banner](https://myoctocat.com/assets/images/base-octocat.svg)
+
 # Acerca de Mi 👋
 
 Hola! Soy Diego, apasionado por la tecnología, la innovación, la programación y el análisis de datos,  razón por la cual poseo títulos de Ingeniero Electricista e Ingeniero de Petróleo y Maestría en Ingeniería en USA.  
@@ -24,12 +26,13 @@ Hola! Soy Diego, apasionado por la tecnología, la innovación, la programación
 
 - Me considero una persona responsable, organizada y proactiva, con Comunicación efectiva,  buenas relaciones interpersonales y trabajo en equipo. En búsqueda permanente de soluciones innovadoras para la optimización de flujos de trabajo y de resultados 
 
+- Puedes ver mi [Perfil de Linkedin](www.linkedin.com/in/diego-fernando-osorio-8816b156).
+ 
 Para cualquier consulta no dudes en contactarme:
 
 - Email:     dosoriofc@gmail.com
 - WhatsApp:  +57 316 3580939
 
-<!--
 **dosoriofc/dosoriofc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -42,4 +45,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
