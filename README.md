@@ -1,4 +1,4 @@
-![Acerca de Mi Banner](Banner.png)
+![Acerca de Mi Banner](Banner.jpeg)
 
 # Acerca de Mi 👋
 
