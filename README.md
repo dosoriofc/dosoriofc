@@ -1,4 +1,4 @@
-![Acerca de Mi Banner](https://myoctocat.com/assets/images/base-octocat.svg)
+![Acerca de Mi Banner](electrocat.png)
 
 # Acerca de Mi 👋
 
